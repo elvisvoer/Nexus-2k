@@ -1,6 +1,7 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+Nexus.vcproj.OPNET.elvisa.user
 
 # Folder config file
 Desktop.ini
@@ -13,6 +14,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.sln
+*.vcproj
 
 # Windows shortcuts
 *.lnk
