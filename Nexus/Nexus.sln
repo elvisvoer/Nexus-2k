@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nexus", "Nexus\Nexus.vcproj", "{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nexus 2k", "Nexus\Nexus.vcproj", "{9667E908-CC67-42A9-BC8A-1D69347EF645}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}.Debug|Win32.ActiveCfg = Debug|Win32
-		{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}.Debug|Win32.Build.0 = Debug|Win32
-		{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}.Release|Win32.ActiveCfg = Release|Win32
-		{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}.Release|Win32.Build.0 = Release|Win32
+		{9667E908-CC67-42A9-BC8A-1D69347EF645}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9667E908-CC67-42A9-BC8A-1D69347EF645}.Debug|Win32.Build.0 = Debug|Win32
+		{9667E908-CC67-42A9-BC8A-1D69347EF645}.Release|Win32.ActiveCfg = Release|Win32
+		{9667E908-CC67-42A9-BC8A-1D69347EF645}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

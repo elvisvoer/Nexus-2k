@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="Nexus"
-	ProjectGUID="{8CBBD6CE-6AAF-4DC5-9B8E-87CEF7F6AFAA}"
-	RootNamespace="Nexus"
+	Name="Nexus 2k"
+	ProjectGUID="{9667E908-CC67-42A9-BC8A-1D69347EF645}"
+	RootNamespace="Nexus2k"
 	Keyword="ManagedCProj"
 	TargetFrameworkVersion="196613"
 	>
@@ -200,7 +200,19 @@
 				>
 			</File>
 			<File
-				RelativePath=".\Nexus.cpp"
+				RelativePath=".\Board.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Drawer.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Game.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Nexus 2k.cpp"
 				>
 			</File>
 			<File
@@ -230,6 +242,14 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
+				RelativePath=".\Board.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Drawer.h"
+				>
+			</File>
+			<File
 				RelativePath=".\Form1.h"
 				FileType="3"
 				>
@@ -238,6 +258,10 @@
 					SubType="Designer"
 					>
 				</File>
+			</File>
+			<File
+				RelativePath=".\Game.h"
+				>
 			</File>
 			<File
 				RelativePath=".\resource.h"
